@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9a993032-8a8b-44da-84bf-cda885cfbd23.jpeg?v=1791164143)](https://www.boot.dev/certificates/9a993032-8a8b-44da-84bf-cda885cfbd23)
 
 <!--
 **SholeyLamil/SholeyLamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
